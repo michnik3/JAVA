@@ -1,4 +1,3 @@
-// Fig. 6.10: MethodOverload.java
 // Overloaded method declarations.
 
 public class MethodOverload 
