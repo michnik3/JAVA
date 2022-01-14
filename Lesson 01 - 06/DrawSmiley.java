@@ -1,4 +1,4 @@
-// Fig. 6.11: DrawSmiley.java
+
 // Demonstrates filled shapes.
 import java.awt.Color;
 import java.awt.Graphics;
