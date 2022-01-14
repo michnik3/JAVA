@@ -1,4 +1,3 @@
-// Fig. 6.6: RandomIntegers.java
 // Shifted and scaled random integers.
 import java.security.SecureRandom; // program uses class SecureRandom
 
